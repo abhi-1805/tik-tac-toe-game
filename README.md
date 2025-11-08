@@ -31,6 +31,4 @@ The design is clean, responsive, and interactive.
 ##  Screenshot
 
 
-```markdown
-
 ![Game Preview](preview.png)
