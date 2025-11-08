@@ -32,4 +32,5 @@ The design is clean, responsive, and interactive.
 
 
 ```markdown
-![Game Preview](./images/tic_tac_toe_preview.png)
+
+![Game Preview](preview.png)
